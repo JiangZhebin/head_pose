@@ -1,0 +1,3 @@
+<launch>
+  <node name="face_detection" pkg="face_detection" type="face_detection_Jiang.cpp" />
+  </launch>
